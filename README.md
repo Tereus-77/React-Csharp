@@ -11,7 +11,7 @@ git clone https://github.com/Tereus-77/React-Csharp
 Then, change to repository folder
 
 ```
-cd todo-list
+cd React-Csharp
 ```
 
 ### Run
